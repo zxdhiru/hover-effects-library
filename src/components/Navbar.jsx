@@ -39,7 +39,7 @@ const Navbar = () => {
 
           {/* GitHub Link */}
           <a
-            href="https://github.com/your-username/your-repo"
+            href="https://github.com/zxdhiru/hover-effects-library"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-800 hover:text-gray-600"
