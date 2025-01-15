@@ -19,7 +19,7 @@ ReactDOM.createRoot(root).render(
       <Route path="/" element={<App />} />
       <Route path="/effect/:effectName" element={<SingleCard />} />
     </Routes>
-      <p className="flex items-center text-center w-full justify-center py-4 gap-2 ">Create with <FaHeart/> by <a href="https://www.instagram.com/zxdhiru"><b className="hover:text-red-400">Dhiru</b></a></p>
+      <p className="flex items-center text-center w-full justify-center py-4 gap-2 ">Create with <FaHeart/> by <a href="https://www.instagram.com/zxdhiru"><b className="hover:text-red-400">Dhiru</b>❤️</a></p>
   </main>
   </BrowserRouter>
 );
