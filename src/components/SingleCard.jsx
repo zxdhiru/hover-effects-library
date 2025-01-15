@@ -16,7 +16,7 @@ const SingleCard = () => {
   };
 
   return (
-    <div className="min-h-screen pt-20 bg-gradient-to-r from-purple-500 to-indigo-500 text-white p-8">
+    <div className="text-white p-8">
       <h1 className="text-4xl font-bold text-center mb-1">Effect: {effectName}</h1>
       <p className="text-xl text-center mb-8">{effect?.description}</p>
       <div className="flex flex-col md:flex-row items-center gap-8 md:gap-16 bg-white rounded-lg p-16 shadow-xl">
